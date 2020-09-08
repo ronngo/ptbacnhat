@@ -1,0 +1,6 @@
+C:\Users\ronng\source\repos\ptbacnhat\ptbacnhat\bin\Debug\ptbacnhat.exe.config
+C:\Users\ronng\source\repos\ptbacnhat\ptbacnhat\bin\Debug\ptbacnhat.exe
+C:\Users\ronng\source\repos\ptbacnhat\ptbacnhat\bin\Debug\ptbacnhat.pdb
+C:\Users\ronng\source\repos\ptbacnhat\ptbacnhat\obj\Debug\ptbacnhat.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\ptbacnhat\ptbacnhat\obj\Debug\ptbacnhat.exe
+C:\Users\ronng\source\repos\ptbacnhat\ptbacnhat\obj\Debug\ptbacnhat.pdb
